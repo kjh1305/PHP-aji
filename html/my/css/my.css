@@ -1,0 +1,113 @@
+table { font-size:10pt; text-align:center; vertical-align:middle; }
+.mymargin5 { margin:5px 0px 5px 0px; }
+.mycolor1 { background-color:steelblue; color:white; }
+.mycolor2 { background-color:lightsteelblue; }
+.mr0 {margin: 0px 2px 0px 3px;}
+
+.mythumb_box{
+	font-size : 14px;
+	text-align:center;
+	border:1px solid lightgray;
+	padding:3px;
+	margin:5px 0px 5px 0px;
+}
+.mythumb_image {
+	height: 150px;
+	max-width: 100%;
+	margin-bottom:3px;
+}
+.mythumb_text{
+	border: 1px solid lightgray;
+	background-color:lightsteelblue;
+	padding:3px;
+}
+.mythumb_bigimage{
+	height:550px;
+	max-width: 100%;
+	margin-bottom:3px;
+}
+
+
+.myimage_box1{
+	font-size : 18px;
+	text-align:center;
+	background-color:rgba(252, 204, 0, 0.1);
+	border:5px solid #ffd700;
+	padding:3px;
+	margin:auto;
+}
+.myimage_box2{
+	font-size : 18px;
+	text-align:center;
+	background-color:rgba(166, 166, 166, 0.1);
+	border:5px solid #c0c0c0;
+	padding:3px;
+	margin:auto;
+}
+.myimage_box3{
+	font-size : 18px;
+	text-align:center;
+	background-color:rgba(153, 56, 0, 0.1);
+	border:5px solid #a00000;
+	padding:3px;
+	margin:auto;
+}
+
+.myimage_image{
+	height: 200px;
+	max-width: 100%;
+	margin-bottom:5px;
+}
+.myimage_image2{
+	height: 100px;
+	max-width: 100%;
+	margin-bottom:10px;
+}
+.myimage_text{
+	font-weight:bold;
+	padding:3px;
+}
+
+.art_title{
+	border: 1px solid lightgray;
+	background-color:light;
+	padding:3px;
+}
+.art_text{
+	border: 1px solid lightgray;
+	background-color:lightsteelblue;
+	padding:3px;
+}
+
+.img_size{
+	width : 100px;
+	height : 100px;
+}
+
+.text_size{
+ overflow: hidden; 
+  text-overflow: ellipsis; 
+  display: -webkit-box; 
+  -webkit-line-clamp: 2; /* 라인수 */ 
+  -webkit-box-orient: vertical; 
+  word-wrap:break-word; 
+  line-height: 1.5em; 
+  height: 130px;
+	font-size:13px;
+
+  margin-bottom: 0;
+   }
+
+.text_size1{
+ overflow: hidden; 
+  text-overflow: ellipsis; 
+  display: -webkit-box; 
+  -webkit-line-clamp: 2; /* 라인수 */ 
+  -webkit-box-orient: vertical; 
+  word-wrap:break-word; 
+  line-height: 1.5em; 
+  height: 30px;
+	font-size:13px;
+
+  margin-bottom: 0;
+   }
